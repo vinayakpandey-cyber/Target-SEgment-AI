@@ -1,0 +1,6 @@
+{
+  "name": "TargetSegment AI",
+  "description": "AI-powered customer segmentation and marketing campaign tool with real-time analytics and A/B testing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
